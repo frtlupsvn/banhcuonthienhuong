@@ -1,0 +1,10 @@
+Searching 75 files for "image-bg"
+
+/Users/zoom/banhcuonthienhuong/js/main.js:
+   67  		
+   68  		//Image Background 
+   69: 		$(".image-background").backstretch("images/image-bg2.jpg");
+   70  		
+   71  		
+
+1 match in 1 file
